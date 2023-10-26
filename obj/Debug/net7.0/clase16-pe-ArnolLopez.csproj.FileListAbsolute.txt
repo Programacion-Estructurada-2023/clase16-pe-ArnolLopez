@@ -1,0 +1,15 @@
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\bin\Debug\net7.0\clase16-pe-ArnolLopez.exe
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\bin\Debug\net7.0\clase16-pe-ArnolLopez.deps.json
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\bin\Debug\net7.0\clase16-pe-ArnolLopez.runtimeconfig.json
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\bin\Debug\net7.0\clase16-pe-ArnolLopez.dll
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\bin\Debug\net7.0\clase16-pe-ArnolLopez.pdb
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.csproj.AssemblyReference.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.AssemblyInfoInputs.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.AssemblyInfo.cs
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.csproj.CoreCompileInputs.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.dll
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\refint\clase16-pe-ArnolLopez.dll
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.pdb
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\clase16-pe-ArnolLopez.genruntimeconfig.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\clase16-pe-ArnolLopez\obj\Debug\net7.0\ref\clase16-pe-ArnolLopez.dll
